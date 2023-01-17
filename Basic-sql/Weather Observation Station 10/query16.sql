@@ -1,0 +1,8 @@
+SELECT 
+    DISTINCT CITY 
+FROM 
+    STATION 
+WHERE 
+    SUBSTR(lLOWER(CITY),LENGTH(CITY),1) 
+NOT IN 
+    ('a','e','i','o','u');
