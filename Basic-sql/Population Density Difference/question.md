@@ -1,4 +1,6 @@
- Query the difference between the maximum and minimum populations in CITY.
+# Population Density Difference 
+ 
+Query the difference between the maximum and minimum populations in CITY.
 
 Input Format
 
